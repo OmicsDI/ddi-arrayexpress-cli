@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project xmlns="http://maven.apache.org/POM/4.0.0"
-		 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-		 xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 
 	<parent>
 		<groupId>uk.ac.ebi.ddi.maven</groupId>
@@ -13,7 +11,7 @@
 
 	<groupId>uk.ac.ebi.ddi.arraysexpress.readers</groupId>
 	<artifactId>arrayexpress-reader</artifactId>
-	<version>0.1</version>
+	<version>0.2</version>
 	<packaging>pom</packaging>
 
 	<name>arrayexpress-reader</name>
@@ -31,7 +29,8 @@
 		<developerConnection>scm:git:git@github.com:OmicsDI/ddi-arrayexpress-cli.git.git</developerConnection>
 		<url>https://github.com/OmicsDI/ddi-arrayexpress-cli.git.git</url>
 		<!--<tag>arrayexpress-cli-0.2.2</tag>-->
-	</scm>
+	  <tag>arrayexpress-reader-0.2</tag>
+  </scm>
 	<properties>
 		<maven.checkstyle.version>2.17</maven.checkstyle.version>
 		<checkstyle.config.location>checkstyle.xml</checkstyle.config.location>
