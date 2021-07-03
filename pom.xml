@@ -26,12 +26,12 @@
 			<distribution>repo</distribution>
 		</license>
 	</licenses>
-	<scm>
+	<!--<scm>
 		<connection>scm:git:github.com/OmicsDI/ddi-arrayexpress-cli.git.git</connection>
 		<developerConnection>scm:git:git@github.com:OmicsDI/ddi-arrayexpress-cli.git.git</developerConnection>
 		<url>https://github.com/OmicsDI/ddi-arrayexpress-cli.git.git</url>
-		<!--<tag>arrayexpress-cli-0.2.2</tag>-->
-	</scm>
+		&lt;!&ndash;<tag>arrayexpress-cli-0.2.2</tag>&ndash;&gt;
+	</scm>-->
 	<properties>
 		<maven.checkstyle.version>2.17</maven.checkstyle.version>
 		<checkstyle.config.location>checkstyle.xml</checkstyle.config.location>
