@@ -27,10 +27,10 @@
 		</license>
 	</licenses>
 	<scm>
-		<connection>scm:git:github.com/OmicsDI/ddi-ebeye-ws-dao.git</connection>
-		<developerConnection>scm:git:git@github.com:OmicsDI/ddi-ebeye-ws-dao.git</developerConnection>
-		<url>https://github.com/OmicsDI/ddi-ebeye-ws-dao.git</url>
-		<tag>ddi-ebeye-ws-dao-1.1.2</tag>
+		<connection>scm:git:github.com/OmicsDI/ddi-arrayexpress-cli.git.git</connection>
+		<developerConnection>scm:git:git@github.com:OmicsDI/ddi-arrayexpress-cli.git.git</developerConnection>
+		<url>https://github.com/OmicsDI/ddi-arrayexpress-cli.git.git</url>
+		<!--<tag>arrayexpress-cli-0.2.2</tag>-->
 	</scm>
 	<properties>
 		<maven.checkstyle.version>2.17</maven.checkstyle.version>
